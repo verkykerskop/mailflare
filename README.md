@@ -123,7 +123,7 @@ Add your Cloudflare credentials to `.dev.vars`, then open [localhost:3000](http:
 - `npm run deploy`: build and deploy
 - `npm run lint`: lint and type check
 
-A schema change needs a migration for each database type. See [Databases](docs/databases.md#migrations).
+### A schema change needs a migration for each database type. See [Databases](docs/databases.md#migrations).
 
 ## Documentation
 
